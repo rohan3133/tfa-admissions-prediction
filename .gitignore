@@ -1,0 +1,15 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.rds
+
+# Generated outputs (scripts write these to the working directory)
+/*.pdf
+plots/
+output*/
+
+# OS / editor
+.DS_Store
+.vscode/
+svm_plots/
