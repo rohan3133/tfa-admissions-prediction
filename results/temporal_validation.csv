@@ -1,0 +1,2 @@
+"Model","AUC","AUC_CI_low","AUC_CI_high","Accuracy_at_0.5","Balanced_Accuracy","Recall_NotCompleted","Precision_NotCompleted","NotCompleted_Rate_Bottom_Decile","Lift_Bottom_Decile","Train_n","Test_n"
+"Random Forest, train 2015 -> test 2016",0.695787447475078,0.689403588504818,0.702171306445339,0.802790221425829,0.641258999160289,0.728791607304753,0.286872291613561,0.428205784489378,2.16654047028592,35774,39065
